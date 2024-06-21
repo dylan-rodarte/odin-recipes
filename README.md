@@ -1,0 +1,1 @@
+Practical excercise as part of The Odin Project fundamentals curriculum. 
